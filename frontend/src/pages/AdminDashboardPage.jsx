@@ -37,10 +37,10 @@ export default function AdminDashboardPage() {
       }
     }
   };
-  useEffect(() => { if (hasToken) refresh(); }, [hasToken, refresh]);
-
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  useEffect(() => { if (hasToken) refresh(); }, []);
   if (!hasToken) return <Navigate to="/admin/login" replace />;
-
+ 
   const logout = () => {
     localStorage.removeItem("florax_admin_token");
     toast.success("Signed out");
