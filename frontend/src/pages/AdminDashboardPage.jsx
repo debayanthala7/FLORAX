@@ -37,7 +37,7 @@ export default function AdminDashboardPage() {
       }
     }
   };
-  useEffect(() => { if (hasToken) refresh(); }, [hasToken]);
+  useEffect(() => { if (hasToken) refresh(); }, [hasToken, refresh]);
 
   if (!hasToken) return <Navigate to="/admin/login" replace />;
 
