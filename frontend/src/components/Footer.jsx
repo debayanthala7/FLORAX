@@ -97,12 +97,12 @@ export const Footer = () => {
           <ul className="space-y-2 text-sm text-florax-bg/85">
             <li>R&D Lab — Tadong, Gangtok</li>
             <li>East Sikkim, India 737102</li>
-            <li className="pt-2"><span className="overline text-florax-bg/60">Owner</span><br />Debayan Pramanik</li>
+            <li className="pt-2"><span className="overline text-florax-bg/60">Contact Us</span><br />FLORAX Agri-Biotechnologies</li>
             <li>info.florax@gmail.com</li>
             <li>+91 97338 74268</li>
             <li className="pt-3 border-t border-florax-bg/15 mt-3">
-              <span className="overline text-florax-bg/60">TejLeaf Naturals</span><br />
-              Originated by Suvajit Mandal<br />
+              <span className="overline text-florax-bg/60">A FLORAX INITIATIVE</span><br />
+              TejLeaf Naturals<br />
               +91 89673 00470
             </li>
           </ul>
