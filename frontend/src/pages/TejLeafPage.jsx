@@ -698,7 +698,7 @@ export default function TejLeafPage() {
                 style={{ color: TEJ_GREEN }}
               >
                 Formulated &amp; <span className="italic">stability verified</span> at the
-                FLORAX R&amp;D Labs, Tadong, Gangtok.
+                FLORAX R&amp;D Labs, Matigara, West Bengal.
               </p>
               <p className="mt-3 text-sm" style={{ color: "#5C5847" }}>
                 Every TejLeaf micro-batch is HPLC-tested for active concentration, microbially
@@ -763,8 +763,8 @@ export default function TejLeafPage() {
             <div>
               <p className="overline" style={{ color: TEJ_GOLD }}>Powered by</p>
               <p className="mt-3 text-sm" style={{ color: "#3C3A2E" }}>
-                <Link to="/" className="hover:underline">FLORAX Agri-Biotech</Link><br />
-                Gangtok, Sikkim
+                <Link to="/" className="hover:underline">FLORAX Agri-Biotechnologies</Link><br />
+                Matigara, West Bengal
               </p>
             </div>
           </div>
