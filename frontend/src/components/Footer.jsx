@@ -98,7 +98,7 @@ export const Footer = () => {
             <li>R&D Lab — Tadong, Gangtok</li>
             <li>East Sikkim, India 737102</li>
             <li className="pt-2"><span className="overline text-florax-bg/60">Owner</span><br />Debayan Pramanik</li>
-            <li>debclutch07x33@gmail.com</li>
+            <li>info.florax@gmail.com</li>
             <li>+91 97338 74268</li>
             <li className="pt-3 border-t border-florax-bg/15 mt-3">
               <span className="overline text-florax-bg/60">TejLeaf Naturals</span><br />
@@ -124,7 +124,7 @@ export const Footer = () => {
           </ul>
           <p className="overline text-florax-bg/60 mt-8 mb-3">Follow us</p>
           <a
-            href="https://www.instagram.com/debayan.thala7"
+            href="https://www.instagram.com/tejleafnaturals"
             target="_blank"
             rel="noopener noreferrer"
             data-testid="instagram-link"
