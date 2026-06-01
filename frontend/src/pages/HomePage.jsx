@@ -41,7 +41,7 @@ export default function HomePage() {
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-0 min-h-[88vh]">
           <div className="lg:col-span-5 px-6 lg:px-10 py-16 lg:py-24 flex flex-col justify-between">
             <div>
-              <p className="overline text-florax-muted fade-in">East Sikkim · 27.3°N · 1,650 m</p>
+              <p className="overline text-florax-muted fade-in">EASTERN HIMALAYAS · 27.3°N · 1,650 M</p>
               <h1 className="mt-8 font-editorial text-[3.2rem] sm:text-7xl lg:text-[5.5rem] leading-[0.95] tracking-tight text-florax-primary fade-up">
                 Agri-biotech, with the<br />
                 <span className="italic text-florax-accent">patience of a mountain.</span>
