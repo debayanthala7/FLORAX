@@ -89,7 +89,7 @@ export const Footer = () => {
           </h3>
           <p className="mt-6 text-florax-bg/70 max-w-md text-sm leading-relaxed">
             FLORAX is a Himalayan agri-biotech house growing organic produce, microbial
-            inputs and field science with the Kisans of Easterm Himalayas.
+            inputs and field science with the Kisans of Eastern Himalayas.
           </p>
         </div>
         <div className="md:col-span-3">
