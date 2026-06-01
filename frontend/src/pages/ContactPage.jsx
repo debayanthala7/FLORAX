@@ -58,7 +58,7 @@ export default function ContactPage() {
             </div>
             <div className="flex items-start gap-4">
               <Phone className="w-5 h-5 text-florax-accent mt-0.5" strokeWidth={1.5} />
-              <p className="text-florax-primary">+91 97338 74268</p>
+              <p className="text-florax-primary">+91 93327 72824</p>
             </div>
           </div>
         </div>
