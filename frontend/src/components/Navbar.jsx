@@ -61,7 +61,7 @@ export const Navbar = () => {
               alt="FLORAX"
               className="h-8 lg:h-10 w-auto object-contain"
             />
-            <span className="overline text-florax-muted hidden xl:inline">Sikkim · Est. 2024</span>
+            <span className="overline text-florax-muted hidden xl:inline">Matigara · Est. 2024</span>
           </Link>
 
           <nav className="hidden lg:flex items-center gap-6">
