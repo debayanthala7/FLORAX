@@ -549,10 +549,10 @@ export default function TejLeafPage() {
                 style={{ color: TEJ_GREEN }}
               >
                 Winter Box Bundle at{" "}
-                <span className="italic" style={{ color: TEJ_GOLD }}>₹1,999</span>
+                <span className="italic" style={{ color: TEJ_GOLD }}>₹999</span>
               </p>
               <p className="mt-2 text-sm" style={{ color: "#7A7660" }}>
-                All five winter essentials · Save vs. individual MRP
+                All five winter essentials · Save ₹469 vs. individual MRP
               </p>
             </div>
             <span
