@@ -49,12 +49,12 @@ export default function ContactPage() {
               <MapPin className="w-5 h-5 text-florax-accent mt-0.5" strokeWidth={1.5} />
               <div>
                 <p className="text-florax-primary">FLORAX R&D Lab</p>
-                <p className="text-florax-muted">Tadong, Gangtok, East Sikkim 737102</p>
+                <p className="text-florax-muted">Matigara, West Bengal 734010</p>
               </div>
             </div>
             <div className="flex items-start gap-4">
               <Mail className="w-5 h-5 text-florax-accent mt-0.5" strokeWidth={1.5} />
-              <p className="text-florax-primary">debclutch07x33@gmail.com</p>
+              <p className="text-florax-primary">info.florax@gmail.com</p>
             </div>
             <div className="flex items-start gap-4">
               <Phone className="w-5 h-5 text-florax-accent mt-0.5" strokeWidth={1.5} />
