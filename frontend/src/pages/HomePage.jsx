@@ -62,7 +62,7 @@ export default function HomePage() {
             </div>
             <div className="mt-16 grid grid-cols-3 gap-6 max-w-md">
               <div>
-                <p className="font-editorial text-3xl text-florax-primary">12</p>
+                <p className="font-editorial text-3xl text-florax-primary">07</p>
                 <p className="overline text-florax-muted mt-1">Partner Kisans</p>
               </div>
               <div>
@@ -92,8 +92,8 @@ export default function HomePage() {
         <Section overline="What we do" title="Three pillars, one valley.">
           <div className="mt-16 grid grid-cols-1 md:grid-cols-3 gap-px bg-florax-border">
             {[
-              { icon: Mountain, title: "Heritage agriculture", body: "We farm in partnership with twelve Sikkim families using terraced, low-intervention methods passed down for generations." },
-              { icon: Microscope, title: "Lab-verified agri-biotech", body: "Indigenous microbial strains and disease-resistant planting material, characterised in our Gangtok R&D lab, returned to the slopes as living inputs." },
+              { icon: Mountain, title: "Heritage agriculture", body: "We farm in partnership with seven Sikkim families using terraced, low-intervention methods passed down for generations." },
+              { icon: Microscope, title: "Lab-verified agri-biotech", body: "Indigenous microbial strains and disease-resistant planting material, characterised in our Matigara R&D lab, returned to the slopes as living inputs." },
               { icon: Leaf, title: "Single-origin organics", body: "Every cardamom pod, honey jar and tisane tin is traceable to a slope, a season and a hand." },
             ].map((p, i) => (
               <div key={i} className="bg-florax-bg p-10">
