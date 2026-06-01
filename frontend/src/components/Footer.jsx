@@ -84,7 +84,7 @@ export const Footer = () => {
             <img src="/florax-logo.png" alt="FLORAX" className="h-9 w-auto object-contain" />
           </div>
           <h3 className="font-editorial text-4xl lg:text-5xl leading-none">
-            Rooted in Sikkim.<br />
+            Rooted in Eastern Himalayas.<br />
             <span className="text-florax-secondary italic">Reaching beyond.</span>
           </h3>
           <p className="mt-6 text-florax-bg/70 max-w-md text-sm leading-relaxed">
