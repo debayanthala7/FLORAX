@@ -748,8 +748,8 @@ export default function TejLeafPage() {
                 <a href="tel:+918967300470" className="block hover:underline" data-testid="tej-phone">
                   +91 89673 00470
                 </a>
-                <a href="mailto:info.tejleafnaturals@gmail.com" className="block hover:underline mt-1" data-testid="tej-email">
-                  info.tejleafnaturals@gmail.com
+                <a href="mailto:info.florax@gmail.com" className="block hover:underline mt-1" data-testid="tej-email">
+                  info.florax@gmail.com
                 </a>
               </p>
             </div>
