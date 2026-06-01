@@ -29,7 +29,7 @@ export default function ProductsPage() {
           <span className="italic">everything we vouch for.</span>
         </h1>
         <p className="mt-6 max-w-xl text-florax-muted">
-          Each product carries a batch certificate from our Gangtok lab. Ships across India in 4-7 days.
+          Each product carries a batch certificate from our Matigara lab. Ships across India in 4-7 days.
         </p>
 
       {/* Filter ribbon — Pahadon Wala Pyaar */}
