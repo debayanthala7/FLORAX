@@ -47,7 +47,7 @@ export default function HomePage() {
                 <span className="italic text-florax-accent">patience of a mountain.</span>
               </h1>
               <p className="mt-8 max-w-md text-florax-muted text-base leading-relaxed fade-up" style={{ animationDelay: "150ms" }}>
-                FLORAX is an agri-biotech house from Sikkim — growing organic produce, microbial
+                FLORAX is an agri-biotech house from Eastern Himalayas — growing organic produce, microbial
                 and a quieter way of feeding the world.
               </p>
               <div className="mt-10 flex flex-wrap gap-4 fade-up" style={{ animationDelay: "300ms" }}>
@@ -144,7 +144,7 @@ export default function HomePage() {
             </h2>
             <p className="mt-6 max-w-2xl text-florax-bg/75 leading-relaxed">
               Fair, multi-year contracts. Seed and microbial inputs at cost. Field training every quarter.
-              If you farm anywhere in Sikkim, we want to hear from you.
+              If you farm anywhere in the Eastern Himalayas, we want to hear from you.
             </p>
           </div>
           <div className="lg:col-span-5">
