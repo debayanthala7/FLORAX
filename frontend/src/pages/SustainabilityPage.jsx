@@ -62,7 +62,7 @@ const ANSWERS = [
   {
     n: "01",
     title: "Tissue-cultured, virus-free cardamom",
-    body: "We are propagating Chirkey- and Foorkey-clean cardamom suckers in our Gangtok lab and supplying them to partner Kisans at cost. The first 4,200 saplings went out in 2024.",
+    body: "We are propagating Chirkey- and Foorkey-clean cardamom suckers in our Matigara lab and supplying them to partner Kisans at cost. The first 4,200 saplings went out in 2024.",
   },
   {
     n: "02",
@@ -222,7 +222,7 @@ export default function SustainabilityPage() {
             <p className="mt-6 text-florax-muted leading-relaxed">
               Modern agri-biotech without rooted ecological knowledge is an export. FLORAX tries to live
               in the middle — indigenous microbes, modern characterisation, transparent supply, fair contracts.
-              No genetically engineered crops. No imported strains. No patents on living things from Sikkim.
+              No genetically engineered crops. No imported strains. No patents on living things from the Eastern Himalayas.
             </p>
           </div>
           <div className="lg:col-span-6 grid grid-cols-2 gap-4">
