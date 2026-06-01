@@ -39,7 +39,7 @@ export default function FarmersPage() {
             <span className="italic text-florax-accent">Be paid like a partner.</span>
           </h1>
           <p className="mt-8 max-w-xl text-florax-muted text-lg leading-relaxed">
-            FLORAX works with twelve families across East and North Sikkim. We commit to multi-year buying
+            FLORAX works with seven families across East and North Sikkim. We commit to multi-year buying
             contracts, supply microbial inputs at cost, and run quarterly field training. We are slowly opening
             this circle to more farms.
           </p>
@@ -55,7 +55,7 @@ export default function FarmersPage() {
             { t: "Multi-year contract", b: "Three-year minimum buying commitment, indexed to inflation." },
             { t: "Inputs at cost", b: "Compost activator, nettle tonic and mother seeds at our manufacturing cost." },
             { t: "Quarterly training", b: "Our agronomists visit on rotation. Soil tests once a year." },
-            { t: "Lab access", b: "Free product testing for any partner farm at our Gangtok lab." },
+            { t: "Lab access", b: "Free product testing for any partner farm at our Matigara lab." },
           ].map((x, i) => (
             <div key={i}>
               <p className="font-editorial text-3xl text-florax-primary">0{i + 1}</p>
@@ -78,7 +78,7 @@ export default function FarmersPage() {
           {success ? (
             <div data-testid="partner-success" className="mt-12 border border-florax-border p-10 bg-florax-alt">
               <p className="font-editorial text-2xl text-florax-primary">Thank you.</p>
-              <p className="text-florax-muted mt-2">Your application is on our field team's desk in Gangtok. They'll be in touch.</p>
+              <p className="text-florax-muted mt-2">Your application is on our field team's desk in Tadong. They'll be in touch.</p>
             </div>
           ) : (
             <form onSubmit={submit} data-testid="partner-form" className="mt-10 grid grid-cols-1 md:grid-cols-2 gap-x-6 gap-y-6">
