@@ -89,17 +89,17 @@ export const Footer = () => {
           </h3>
           <p className="mt-6 text-florax-bg/70 max-w-md text-sm leading-relaxed">
             FLORAX is a Himalayan agri-biotech house growing organic produce, microbial
-            inputs and field science with the Kisans of Sikkim.
+            inputs and field science with the Kisans of North-Easterm Himalayas.
           </p>
         </div>
         <div className="md:col-span-3">
           <p className="overline text-florax-bg/60 mb-4">Visit</p>
           <ul className="space-y-2 text-sm text-florax-bg/85">
-            <li>R&D Lab — Tadong, Gangtok</li>
-            <li>East Sikkim, India 737102</li>
+            <li>Studio — Matigara</li>
+            <li>West Bengal, India 734010</li>
             <li className="pt-2"><span className="overline text-florax-bg/60">Contact Us</span><br />FLORAX Agri-Biotechnologies</li>
             <li>info.florax@gmail.com</li>
-            <li>+91 97338 74268</li>
+            <li>+91 93327 72824</li>
             <li className="pt-3 border-t border-florax-bg/15 mt-3">
               <span className="overline text-florax-bg/60">A FLORAX INITIATIVE</span><br />
               TejLeaf Naturals<br />
@@ -138,8 +138,8 @@ export const Footer = () => {
 
       <div className="border-t border-florax-bg/15">
         <div className="max-w-7xl mx-auto px-6 lg:px-10 py-6 flex flex-col md:flex-row justify-between gap-3 text-xs text-florax-bg/55">
-          <span>© 2024 FLORAX Agri-Biotechnologies Pvt. Ltd. All rights reserved.</span>
-          <span>Crafted in the Himalayas. Verified in our lab.</span>
+          <span>© 2024 FLORAX Agri-Biotechnologies. All rights reserved.</span>
+          <span>Himalayan Provenance. Handcrafted Excellence.</span>
         </div>
       </div>
     </footer>
