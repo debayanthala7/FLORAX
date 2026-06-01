@@ -14,7 +14,7 @@ export default function ContactPage() {
     setSending(true);
     try {
       await api.post("/inquiries", form);
-      toast.success("Message sent", { description: "We'll write back from Gangtok within 2 business days." });
+      toast.success("Message sent", { description: "We'll write back from Matigara within 2 business days." });
       setDone(true);
       setForm({ name: "", email: "", phone: "", subject: "", message: "" });
     } catch {
@@ -35,7 +35,7 @@ export default function ContactPage() {
           </h1>
           <p className="mt-6 text-florax-muted leading-relaxed">
             Wholesale enquiries, lab collaborations, press, or just curiosity — every message lands on a real desk in
-            Gangtok and gets a real reply.
+            Matigara and gets a real reply.
           </p>
           <div className="mt-12 space-y-5 text-sm">
             <div className="flex items-start gap-4">
